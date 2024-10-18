@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc.jfrog.io/tssc-docker/bootstrap:aac597761b08ba50683aaa08a260f44b56894bd5@sha256:896872f33be9099d9364598577acb56c260a0d5ea0705c966f0c67d44bbc3bcd
+        - image: tssc.jfrog.io/tssc-docker/bootstrap:0841cc72f6108384f758cfc978269b6b2a74d0f6@sha256:3241bf3bccb0aef426f4f767001f1cf09f5a059a9c9a9b0c7e750d508d8d38d1
           name: container-image
